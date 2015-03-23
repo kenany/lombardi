@@ -32,6 +32,7 @@ Given _Number_ `weight` and _Number_ `reps`, returns the one-repetition maximum
 from Lombardi's formula as a _Number_.
 
 
+   [1]: https://en.wikipedia.org/wiki/One-repetition_maximum#Lombardi
    [travis]: https://travis-ci.org/KenanY/lombardi
    [travis-svg]: https://img.shields.io/travis/KenanY/lombardi.svg
    [gemnasium]: https://gemnasium.com/KenanY/lombardi
