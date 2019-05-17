@@ -1,5 +1,7 @@
 # lombardi
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/KenanY/lombardi.svg)](https://greenkeeper.io/)
+
 [![Build Status][travis-svg]][travis]
 [![Dependency Status][gemnasium-svg]][gemnasium]
 
