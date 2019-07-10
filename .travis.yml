@@ -1,11 +1,6 @@
 language: node_js
 node_js:
-  - "0.10"
-  - "0.12"
-  - "iojs"
-git:
-  depth: 10
-sudo: false
+  - 12
 before_install:
   - npm install -g npm
   - npm --version
