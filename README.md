@@ -1,8 +1,5 @@
 # lombardi
 
-[![Build Status][travis-svg]][travis]
-[![Dependency Status][gemnasium-svg]][gemnasium]
-
 [Lombardi's formula][1] for one-repetition maximum.
 
 ## Example
@@ -33,7 +30,3 @@ from Lombardi's formula as a _Number_.
 
 
    [1]: https://en.wikipedia.org/wiki/One-repetition_maximum#Lombardi
-   [travis]: https://travis-ci.org/KenanY/lombardi
-   [travis-svg]: https://img.shields.io/travis/KenanY/lombardi.svg
-   [gemnasium]: https://gemnasium.com/KenanY/lombardi
-   [gemnasium-svg]: https://img.shields.io/gemnasium/KenanY/lombardi.svg
